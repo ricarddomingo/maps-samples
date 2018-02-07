@@ -1,0 +1,13 @@
+LEAFLET
+
+https://api.mapbox.com/styles/v1/ricarddomingo/cjd3b3nh246mq2sp3519xv2wm/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoicmljYXJkZG9taW5nbyIsImEiOiJjamNqZ3IzMDUyNTh3MndwYWRpcTNjbjU2In0.plzKPligh2NtQVhGzT7EKA
+
+MAPBOX GL
+
+mapbox://styles/ricarddomingo/cjd3b3nh246mq2sp3519xv2wm
+
+pk.eyJ1IjoicmljYXJkZG9taW5nbyIsImEiOiJjamNqZ3IzMDUyNTh3MndwYWRpcTNjbjU2In0.plzKPligh2NtQVhGzT7EKA
+
+map id
+
+ricarddomingo.8ctpymio
